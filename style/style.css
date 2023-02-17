@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+header{
+    width: 110%;
+    height: 100px;
+    border-bottom: solid rgba(195, 195, 195, 1);
+}
+h1{
+    padding: 38px 60px;
+    font-size: 20px;
+}
+h1 a{
+    color: rgba(231, 231, 231, 1);
+}
+header li{
+    float: left;
+    margin-right: 20px;
+}
+header li a{
+    color: rgba(231, 231, 231, 1);
+    padding: 5px 10px;
+    font-size: 16px;
+}
+nav{
+    margin-top: -60px;
+    margin-left: 890px;
+}
+.tituli{
+    color: rgba(231, 231, 231, 1);
+    font-size: 128px;
+    letter-spacing: 100px;
+    margin-top: 20px;
+    text-align: center;
+}
+.text1{
+    width: 100%;
+    height: 100px;
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: 200px;
+    color: #FFFFFF;
+}
+.text2{
+    width: 100%;
+    height: 100px;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: -100px;
+}
+.text3{
+    width: 100%;
+    height: 100px;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding-left: 800px;
+    margin-top: -100px;
+}
+.text3 p{
+    padding-bottom: 30px;
+}
+.line{
+    width: 110%;
+    height: 100px;
+    border-bottom: solid rgba(195, 195, 195, 1);
+    margin-top: 90px;
+}
+h2{
+    float: left;
+    margin: 10px;
+}
+h2 a{
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+}
+article div{
+    float: left;
+    width: 464px;
+    height: 628px;
+    overflow: hidden;
+}
+.img1{
+    margin-left: -130px;
+    margin-top: 40px;
+}
+.img1 img{
+    width: 100%;
+}
+.img2{
+    margin-left: -280px;
+    margin-top: 40px;
+}
+.img2 img{
+    width: 464px;
+    height: 628px;
+    object-fit: cover;
+}
+.img3{
+    margin-top: -8px;
+    margin-left: 20px;
+}
+.img3 img{
+    width: 464px;
+    height: 628px;
+    object-fit: cover;
+}
+.line2{
+    width: 110%;
+    height: 200px;
+    border-bottom: solid rgba(195, 195, 195, 1);
+    margin-top: 600px;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    margin-top: 100px;
+    clear: left;
+}
+footer img{
+    width: 100px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+footer p{
+    color: white;
+    margin-top: -80px;
+    margin-left: 200px;
+    font-size: 20px;
+    padding-bottom: 90px;
+}
